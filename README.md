@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Codebuilder2022&theme=nightowl&count_private=true&include_all_commits=true&border_radius=20&show_icons=true&custom_title=%20Kaushik%27s%20GitHub%20Stats%20" width="460" />
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codebuilder2022&theme=nightowl&layout=compact&langs_count=12&border_radius=20&count_private=true&include_all_commits=true&custom_title=%20Most%20Used%20Languages%20By%20Kaushik" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Codebuilder2022&theme=nightowl&count_private=true&include_all_commits=true&border_radius=20&show_icons=true&custom_title=%20Kaushik%27s%20GitHub%20Stats%20" width="460" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codebuilder2022&theme=nightowl&layout=compact&langs_count=12&border_radius=20&count_private=true&include_all_commits=true&custom_title=%20Most%20Used%20Languages%20By%20Kaushik" />
 </p>
