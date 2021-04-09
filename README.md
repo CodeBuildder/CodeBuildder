@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 <p align = "center">
   <a href = "https://twitter.com/KashKS20" target = "_blank"><img src = "https://img.shields.io/twitter/url?color=Blue&label=Twitter&logo=Twitter&logoColor=White&style=social&url=https%3A%2F%2Ftwitter.com%2FKashKS20" /></a>
   
-  <a href = "https://www.linkedin.com/in/kaushikkums/" target = "_blank"><img src = "https://img.shields.io/Linkedin/url?color=Blue&label=Linkedin&logo=Linkedin&logoColor=White&style=social" /></a>
+  [![Linkedin: Kaushik Kumaran](https://img.shields.io/badge/-KaushikK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaushikkums/)](https://www.linkedin.com/in/kaushikkums/)
 </p>
