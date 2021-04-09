@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Codebuilder2022&theme=nightowl" />
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Codebuilder2022&theme=nightowl&border_radius=20" />
  
  #### About Me ✨
  
