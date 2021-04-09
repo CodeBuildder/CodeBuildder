@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/Codebuilder2022/Codebuilder2022/blob/06e882617529167abd76823af3dd4217ddb127fe/kkbgr.png" />
 </p>
+
+<p align = "center">
+  <a href = "https://twitter.com/KashKS20" target = "_blank"><img src = "https://img.shields.io/twitter/url?color=Blue&label=Twitter&logo=Twitter&logoColor=White&style=social&url=https%3A%2F%2Ftwitter.com%2FKashKS20" /></a>
+  
+  <a href = "https://www.linkedin.com/in/kaushikkums/" target = "_blank"><img src = "https://img.shields.io/Linkedin/url?color=Blue&label=Linkedin&logo=Linkedin&logoColor=White&style=social" /></a>
+</p>
