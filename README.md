@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <a href = "https://twitter.com/KashKS20" target = "_blank"><img src = "https://img.shields.io/twitter/url?color=Blue&label=KashKS&logo=Twitter&logoColor=White&style=social&url=https%3A%2F%2Ftwitter.com%2FKashKS20" /></a>
+  <a href = "https://twitter.com/KashKS20" target="_blank"><img src = "https://img.shields.io/twitter/url?color=Blue&label=KashKS&logo=Twitter&logoColor=White&style=social&url=https%3A%2F%2Ftwitter.com%2FKashKS20" /></a>
   <a href = "https://www.linkedin.com/in/kaushikkums/" target = "_blank"><img src = "https://img.shields.io/badge/-KashKS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaushikkums/" /></a>
   <img src="https://badges.pufler.dev/Visits/Codebuilder2022/Codebuilder2022?style=flat-square&color=orange" />
 </p>
