@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/Codebuilder2022/Codebuilder2022/blob/06e882617529167abd76823af3dd4217ddb127fe/kkbgr.png" />
+  <img src="https://github.com/Codebuilder2022/Codebuilder2022/blob/main/kkbackground.gif" />
 </p>
 
 <p align = "center">
