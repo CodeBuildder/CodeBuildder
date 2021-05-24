@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  #### About Me ✨
  
-- 🌱 I’m currently preparing for my ACE certification.
+- 🔭 Google Cloud Associate Cloud Engineer - (Certified)
 - 💬 Ask me about Web Stuff and Cloud Stuff.
 - 🔭 I’m currently working on Web Based Applications.
 - 📫 Reach me at <a href = "http://skaushik.xyz/" target = "_blank">hitmeup@kashKS</a>
