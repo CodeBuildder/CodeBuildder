@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🔭 Google Cloud Associate Cloud Engineer - (Certified)
 - 💬 Ask me about Web Stuff and Cloud Stuff.
 - 🔭 I’m currently working on Web Based Applications.
-- 📫 Reach me at <a href = "http://skaushik.xyz/" target = "_blank">hitmeup@kashKS</a>
+- 📫 Reach me at <a href = "http://kaushiks.xyz/" target = "_blank">hitmeup@kashKS</a>
 
 
 <br><br><br>
