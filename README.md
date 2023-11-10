@@ -30,6 +30,7 @@ Here are some ideas to get you started:
  #### About Me ✨
  
 - 🔭 Google Cloud Associate Cloud Engineer - (Certified)
+- 💻 Google Professional IT Certified 
 - 💬 Ask me about Web Stuff and Cloud Stuff.
 - 🔭 I’m currently working on Web Based Applications and on Cloud Migration/ Cloud Service projects.
 - 📫 Reach me at <a href = "http://kaushikk.dev/" target = "_blank">hitmeup@kashKS</a>
