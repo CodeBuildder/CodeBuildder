@@ -41,5 +41,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeBuildder&theme=nightowl&count_private=true&include_all_commits=true&border_radius=20&show_icons=true&custom_title=%20Kaushik%27s%20GitHub%20Stats%20" width="460" />
 </p>
 <p align = "center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBuildder&theme=nightowl&layout=compact&langs_count=16&border_radius=20&count_private=true&include_all_commits=true&custom_title=%20Most%20Used%20Languages%20By%20Kaushik" />
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBuildder&layout=donut&theme=nightowl&langs_count=10&border_radius=20&count_private=true&include_all_commits=true&custom_title=%20Most%20Used%20Languages%20By%20Kaushik" />
 </p>
+
+
+
