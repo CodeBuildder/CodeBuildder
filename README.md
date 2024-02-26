@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <a href = "https://twitter.com/KashKS20" target="_blank"><img src = "https://img.shields.io/twitter/url?color=Blue&label=KashKS&logo=Twitter&logoColor=White&style=social&url=https%3A%2F%2Ftwitter.com%2FKashKS20" /></a>
-  <a href = "https://www.linkedin.com/in/kaushikkums/" target = "_blank"><img src = "https://img.shields.io/badge/-KashKS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaushikkums/" /></a>
+  <a href = "https://twitter.com/YoungMage_" target="_blank"><img src = "https://img.shields.io/twitter/url?color=Blue&label=YoungMage_&logo=Twitter&logoColor=White&style=social&url=https%3A%2F%2Ftwitter.com%2FYoungMage_" /></a>
+  <a href = "https://www.linkedin.com/in/kaushikkums/" target = "_blank"><img src = "https://img.shields.io/badge/-Kash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaushikkums/" /></a>
 <img src = "https://komarev.com/ghpvc/?username=CodeBuildder&color=040336 " />
 </p>
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 💻 Google Professional IT Certified 
 - 💬 Ask me about Web Stuff and Cloud Stuff.
 - 🔭 I’m currently working on Web Based Applications and on Cloud Migration/ Cloud Service projects.
-- 📫 Reach me at <a href = "http://kaushikk.dev/" target = "_blank">hitmeup@kashKS</a>
+- 📫 Reach me at <a href = "http://kaushikk.dev/" target = "_blank">hitmeup@kash</a>
 
 
 <br><br><br>
