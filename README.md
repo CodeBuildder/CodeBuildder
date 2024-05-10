@@ -17,23 +17,32 @@ Here are some ideas to get you started:
   <img src="https://github.com/Codebuilder2022/Codebuilder2022/blob/main/kkbackground.gif" />
 </p>
 
-<p align = "center">
-  <a href = "https://twitter.com/YoungMage_" target="_blank"><img src = "https://img.shields.io/twitter/url?color=Blue&label=YoungMage_&logo=Twitter&logoColor=White&style=social&url=https%3A%2F%2Ftwitter.com%2FYoungMage_" /></a>
-  <a href = "https://www.linkedin.com/in/kaushikkums/" target = "_blank"><img src = "https://img.shields.io/badge/-Kash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaushikkums/" /></a>
-<img src = "https://komarev.com/ghpvc/?username=CodeBuildder&color=040336 " />
+<p align="center">
+  <a href="https://github.com/CodeBuildder"><img src="https://komarev.com/ghpvc/?username=codebuildder&label=Profile%20views&color=E97451&style=for-the-badge" /></a>
+  <a href="https://wakatime.com/@CodeBuildder"><img src="https://wakatime.com/badge/user/018bbbd8-d4dd-463a-bbd0-4e1f5b767b36.svg?style=for-the-badge&color=blue"/></a>
+  <br />
+  <br />
+  <a href="https://twitter.com/YoungMage_" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kaushikkums/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</a>
 </p>
+
+<br>
+<h1 align = "center"> About Me ✨</h1>
+
+- ⚙️ Making Cloud more Reliable at @IBM
+- 🔭 Google Cloud Associate Cloud Engineer - (Certified)
+- 💻 Google Professional IT Certified 
+- 💬 Let's talk about how the future is floating up to the ☁️ 💻
+- ⚡ I enjoy playing multiplayer games 🎃
+- 📫 Reach me at <a href = "http://kaushikk.dev/" target = "_blank">hitmeup@kash</a>
+
 
 <br><br>
 
  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeBuildder&theme=nightowl&border_radius=20" />
- 
- #### About Me ✨
- 
-- 🔭 Google Cloud Associate Cloud Engineer - (Certified)
-- 💻 Google Professional IT Certified 
-- 💬 Ask me about Web Stuff and Cloud Stuff.
-- 🔭 I’m currently working on Web Based Applications and on Cloud Migration/ Cloud Service projects.
-- 📫 Reach me at <a href = "http://kaushikk.dev/" target = "_blank">hitmeup@kash</a>
+
+
 
 
 <br><br><br>
