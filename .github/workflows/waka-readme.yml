@@ -16,17 +16,15 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
+      - uses: actions/checkout@v4
+      - name: Refresh compact activity block
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
-          SECTION_NAME: waka
-          BLOCKS: ░▒▓█
-          CODE_LANG: txt
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 5
-          SHOW_TIME: true
-          SHOW_TOTAL: false
-          STOP_AT_OTHER: false
-          IGNORED_LANGUAGES: CSS Other JSON Text Markdown "Git Config" "Image (svg)"
-          COMMIT_MESSAGE: Refresh weekly WakaTime stats
+        run: python3 scripts/update_waka.py
+      - name: Commit changed stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Refresh weekly WakaTime stats"
+          git push

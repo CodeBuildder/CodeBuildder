@@ -19,11 +19,10 @@ I'm currently exploring **scalable agentic infrastructure**.
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 32 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.27 %
-Go           1 hr 1 min            ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-Python       15 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-YAML         9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+TypeScript   1 hr 32 mins    ██▒░░░░░░░░░   21.27 %
+Go           1 hr 1 min      █▓░░░░░░░░░░   14.06 %
+Python       15 mins         ▒░░░░░░░░░░░   03.58 %
+YAML         9 mins          ▒░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
