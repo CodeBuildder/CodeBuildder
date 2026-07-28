@@ -10,8 +10,6 @@
 
 I treat infrastructure as a software problem nobody has fully solved. I build resilient systems at IBM across reliability, observability, automation, and agentic workflows.
 
-Away from the terminal, I am a professional basketball point guard, a Heartfulness practitioner of 10+ years, and permanently curious about the next sport, system, or idea worth learning.
-
 [Portfolio](https://kaushikk.dev) · [LinkedIn](https://www.linkedin.com/in/kaushikkums/) · [Medium](https://medium.com/@codebuildder) · [Spotify](https://open.spotify.com/user/am62d1giz0ic1p66yvon6vas9)
 
 I'm currently exploring **scalable agentic infrastructure**.
