@@ -14,10 +14,6 @@ I treat infrastructure as a software problem nobody has fully solved. I build re
 
 I'm currently exploring **scalable agentic infrastructure**.
 
-<a href="https://www.last.fm/user/Codebuildder">
-  <img align="right" width="320" src="https://lastfm-recently-played.vercel.app/api?user=Codebuildder&count=2&width=320&header_size=compact" alt="Two recently played tracks on Last.fm" />
-</a>
-
 #### Coding status this week
 
 <!--START_SECTION:waka-->
@@ -31,3 +27,7 @@ JavaScript   3 mins                ▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<a href="https://www.last.fm/user/Codebuildder">
+  <img width="320" src="https://lastfm-recently-played.vercel.app/api?user=Codebuildder&count=2&width=320&header_size=compact" alt="Two recently played tracks on Last.fm" />
+</a>
