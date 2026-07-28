@@ -10,7 +10,10 @@
 
 I treat infrastructure as a software problem nobody has fully solved. I build resilient systems at IBM across reliability, observability, automation, and agentic workflows.
 
-[Portfolio](https://kaushikk.dev) · [LinkedIn](https://www.linkedin.com/in/kaushikkums/) · [Medium](https://medium.com/@codebuildder) · [Spotify](https://open.spotify.com/user/am62d1giz0ic1p66yvon6vas9)
+<a href="https://kaushikk.dev"><img height="24" src="https://img.shields.io/badge/kk.dev-portfolio-E7E9EC?style=flat-square&labelColor=0B0D11" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/kaushikkums/"><img height="24" src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@codebuildder"><img height="24" src="https://img.shields.io/badge/-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://open.spotify.com/user/am62d1giz0ic1p66yvon6vas9"><img height="24" src="https://img.shields.io/badge/-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" /></a>
 
 I'm currently exploring **scalable agentic infrastructure**.
 
