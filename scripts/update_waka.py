@@ -5,7 +5,7 @@ import re
 import urllib.request
 from pathlib import Path
 
-WIDTH = 12
+WIDTH = 9
 LIMIT = 4
 IGNORED = {"CSS", "Other", "JSON", "Text", "Markdown", "Git Config", "Image (svg)"}
 
@@ -28,10 +28,10 @@ with urllib.request.urlopen(request) as response:
 
 languages = [item for item in stats["languages"] if item["name"] not in IGNORED][:LIMIT]
 lines = [
-    f'{item["name"]:<12} {item["text"]:<15} {activity_bar(item["percent"])}   {item["percent"]:05.2f} %'
+    f'{item["name"]:<11} {item["text"]:<13} {activity_bar(item["percent"])}  {item["percent"]:05.2f}%'
     for item in languages
 ]
-replacement = "<!--START_SECTION:waka-->\n\n```txt\n" + "\n".join(lines) + "\n```\n\n<!--END_SECTION:waka-->"
+replacement = "<!--START_SECTION:waka-->\n\n<table><tr><td><pre>" + "\n".join(lines) + "</pre></td></tr></table>\n\n<!--END_SECTION:waka-->"
 
 readme = Path("README.md")
 content = readme.read_text()

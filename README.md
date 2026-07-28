@@ -27,16 +27,14 @@ I'm currently exploring **scalable agentic infrastructure**.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-#### Coding status this week
+##### Coding status this week
 
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript   1 hr 32 mins    ██▒░░░░░░░░░   21.27 %
-Go           1 hr 1 min      █▓░░░░░░░░░░   14.06 %
-Python       15 mins         ▒░░░░░░░░░░░   03.58 %
-YAML         9 mins          ▒░░░░░░░░░░░   02.18 %
-```
+<table><tr><td><pre>TypeScript  1 hr 32 mins  █▓░░░░░░░  21.27%
+Go          1 hr 1 min    █▒░░░░░░░  14.06%
+Python      15 mins       ▒░░░░░░░░  03.58%
+YAML        9 mins        ░░░░░░░░░  02.18%</pre></td></tr></table>
 
 <!--END_SECTION:waka-->
 
