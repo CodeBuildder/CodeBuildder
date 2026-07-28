@@ -26,6 +26,7 @@ jobs:
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_TOTAL: false
           STOP_AT_OTHER: false
+          IGNORED_LANGUAGES: CSS Other JSON Text Markdown "Git Config" "Image (svg)"
           COMMIT_MESSAGE: Refresh weekly WakaTime stats
