@@ -14,18 +14,11 @@ Away from the terminal, I am a professional basketball point guard, a Heartfulne
 
 [Portfolio](https://kaushikk.dev) · [LinkedIn](https://www.linkedin.com/in/kaushikkums/) · [Medium](https://medium.com/@codebuildder) · [Spotify](https://open.spotify.com/user/am62d1giz0ic1p66yvon6vas9)
 
-#### Lately
+I'm currently exploring **scalable agentic infrastructure**.
 
 <a href="https://www.last.fm/user/Codebuildder">
   <img align="right" width="320" src="https://lastfm-recently-played.vercel.app/api?user=Codebuildder&count=2&width=320&header_size=compact" alt="Two recently played tracks on Last.fm" />
 </a>
-
-```txt
-building    Argus · Sentinel · Phoenix
-exploring   LangGraph · eBPF · Kubernetes
-watching    signals before they become incidents
-playing     point guard · squash · Muay Thai
-```
 
 #### Coding status this week
 
