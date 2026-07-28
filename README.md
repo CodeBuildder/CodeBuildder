@@ -29,15 +29,17 @@ I'm currently exploring **scalable agentic infrastructure**.
 
 ##### Coding status this week
 
+<table><tr><td valign="top">
+
 <!--START_SECTION:waka-->
 
-<table><tr><td><pre>TypeScript  1 hr 32 mins  █▓░░░░░░░  21.27%
+<pre>TypeScript  1 hr 32 mins  █▓░░░░░░░  21.27%
 Go          1 hr 1 min    █▒░░░░░░░  14.06%
 Python      15 mins       ▒░░░░░░░░  03.58%
-YAML        9 mins        ░░░░░░░░░  02.18%</pre></td></tr></table>
+YAML        9 mins        ░░░░░░░░░  02.18%</pre>
 
 <!--END_SECTION:waka-->
 
-<a href="https://www.last.fm/user/Codebuildder">
+</td><td valign="top"><a href="https://www.last.fm/user/Codebuildder">
   <img width="320" src="https://lastfm-recently-played.vercel.app/api?user=Codebuildder&count=2&width=320&header_size=compact" alt="Two recently played tracks on Last.fm" />
-</a>
+</a></td></tr></table>

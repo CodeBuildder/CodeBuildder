@@ -31,7 +31,7 @@ lines = [
     f'{item["name"]:<11} {item["text"]:<13} {activity_bar(item["percent"])}  {item["percent"]:05.2f}%'
     for item in languages
 ]
-replacement = "<!--START_SECTION:waka-->\n\n<table><tr><td><pre>" + "\n".join(lines) + "</pre></td></tr></table>\n\n<!--END_SECTION:waka-->"
+replacement = "<!--START_SECTION:waka-->\n\n<pre>" + "\n".join(lines) + "</pre>\n\n<!--END_SECTION:waka-->"
 
 readme = Path("README.md")
 content = readme.read_text()
