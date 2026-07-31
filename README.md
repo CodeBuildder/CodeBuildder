@@ -44,10 +44,10 @@ I'm currently exploring **scalable agentic infrastructure**.
 
 <!--START_SECTION:waka-->
 
-<pre>TypeScript  2 hrs 8 mins  █▒░░░░░░░  17.48%
-Go          1 hr 58 mins  █▒░░░░░░░  16.24%
-Python      24 mins       ▒░░░░░░░░  03.32%
-Bash        14 mins       ░░░░░░░░░  02.04%</pre>
+<pre>Python      2 hrs 25 mins █▒░░░░░░░  14.46%
+Go          2 hrs 23 mins █▒░░░░░░░  14.30%
+TypeScript  2 hrs 18 mins █▒░░░░░░░  13.80%
+Bash        20 mins       ░░░░░░░░░  02.01%</pre>
 
 <!--END_SECTION:waka-->
 
