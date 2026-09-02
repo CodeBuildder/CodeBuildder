@@ -44,10 +44,10 @@ I'm currently exploring **scalable agentic infrastructure**.
 
 <!--START_SECTION:waka-->
 
-<pre>YAML        38 mins       █▒░░░░░░░  17.93%
-Go          31 mins       █▒░░░░░░░  14.51%
-Python      25 mins       █░░░░░░░░  12.00%
-JavaScript  0 secs        ░░░░░░░░░  00.21%</pre>
+<pre>Python      1 hr 53 mins  ██░░░░░░░  22.47%
+YAML        1 hr 47 mins  █▓░░░░░░░  21.20%
+Go          42 mins       ▓░░░░░░░░  08.32%
+Bash        1 min         ░░░░░░░░░  00.21%</pre>
 
 <!--END_SECTION:waka-->
 
