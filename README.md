@@ -44,10 +44,10 @@ I'm currently exploring **scalable agentic infrastructure**.
 
 <!--START_SECTION:waka-->
 
-<pre>YAML        3 hrs 34 mins ████░░░░░  44.82%
-TypeScript  1 hr 16 mins  █▒░░░░░░░  15.93%
-Go          1 hr          █░░░░░░░░  12.55%
-Bash        8 mins        ░░░░░░░░░  01.86%</pre>
+<pre>YAML        2 hrs 37 mins ███▓░░░░░  43.10%
+Go          1 hr          █▒░░░░░░░  16.47%
+TypeScript  41 mins       █░░░░░░░░  11.45%
+Bash        8 mins        ▒░░░░░░░░  02.43%</pre>
 
 <!--END_SECTION:waka-->
 
